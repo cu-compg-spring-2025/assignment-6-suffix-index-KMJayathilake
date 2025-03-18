@@ -54,3 +54,7 @@ A list of nodes representing the suffix tree of the input text. Each node is str
 
 - The suffix tree structure allows for efficient search and analysis operations on the input text, such as finding substrings, repetitions, etc.
 - The terminal symbol $ is crucial for ensuring that no suffix is a prefix of another, simplifying the tree construction logic.
+
+### To Run Experiment
+cd src
+python experiment.py
